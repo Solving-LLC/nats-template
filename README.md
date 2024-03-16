@@ -2,6 +2,10 @@
 
 Nest + Rust + NATS playground: one of the most complex Hello World projects ever.
 
+## Conception
+
+Any events bus any programming language.
+
 ## Running the project
 
 ```bash
